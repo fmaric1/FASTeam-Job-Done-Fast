@@ -1,6 +1,6 @@
 # Grupa2-FASTeam
-Filip Marić
-Sead Fejzagić
+Filip Marić;
+Sead Fejzagić;
 Azra Smajović
 
 # JobDoneFast
