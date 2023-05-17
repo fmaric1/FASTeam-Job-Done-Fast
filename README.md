@@ -4,7 +4,6 @@ Sead Fejzagić;
 Azra Smajović
 
 ## JobDoneFast
-Description
 JobDoneFast is a powerful and intuitive platform that connects freelancers and businesses, providing a seamless and efficient way to get work done. Inspired by the popular Fiverr platform, JobDoneFast brings together talented professionals from various industries and clients seeking their expertise, offering a range of services in a user-friendly environment.
 
 ## Key Features
